@@ -9,7 +9,7 @@ The format that the files must follow to store each dish with its respective nut
 ,\<name\>,\<price\>,\<amount\>,\<allergens\>,\<incompatibilities\>,\<amount of nutrients\>,\<food groups\>, <br/>
 , ... 
 
-* \<name\> = name
+* **\<name\>** = name
 * \<price\> = price
 * \<amount\> = amount in grams
 * \<allergens\> = \<\<cereal\>, \<nuts\>, \<legumes\>, \<shellfish\>, \<fish\>, \<egg protein\>, \<cow's milk protein\>\>. 0 if the course does not have the allergen, 1 if it is.
