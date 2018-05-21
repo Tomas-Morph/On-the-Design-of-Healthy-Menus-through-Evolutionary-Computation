@@ -5,8 +5,8 @@ There are three files, each of them stores a different set of course types. Ther
 ### File format
 The format that the files must follow to store each dish with its respective nutritional information is the following:
 
-> \<name\>, \<price\>, \<amount\>, \<allergens\>, \<incompatibilities\>, \<amount of nutrients\>, \<food groups\>,
-, \<name\>, \<price\>, \<amount\>, \<allergens\>, \<incompatibilities\>, \<amount of nutrients\>, \<food groups\>,
+> \<name\>, \<price\>, \<amount\>, \<allergens\>, \<incompatibilities\>, \<amount of nutrients\>, \<food groups\>, <br/>
+, \<name\>, \<price\>, \<amount\>, \<allergens\>, \<incompatibilities\>, \<amount of nutrients\>, \<food groups\>, <br/>
 , ... 
 
 * \<name\> = name
