@@ -7,7 +7,7 @@ The format that the files must follow to store each dish with its respective nut
 
 >\<name\>,\<price\>,\<amount\>,\<allergens\>,\<incompatibilities\>,\<amount of nutrients\>,\<food groups\>, <br/>
 ,\<name\>,\<price\>,\<amount\>,\<allergens\>,\<incompatibilities\>,\<amount of nutrients\>,\<food groups\>, <br/>
-, ... 
+, ... ,
 
 * **\<name\>** = name
 * **\<price\>** = price
