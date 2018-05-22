@@ -92,9 +92,9 @@ public:
 	//Lectura de ficheros de platos
 	void set_Platos(void) 
 	{ 
-		set_VectoresPlatos("/home/jramospe/oplink/algorithms/team/src/plugins/problems/MenuPlanning/databaseMenus/primerosplatos.txt", v_primerosPlatos); 
-		set_VectoresPlatos("/home/jramospe/oplink/algorithms/team/src/plugins/problems/MenuPlanning/databaseMenus/segundosplatos.txt", v_segundosPlatos); 
-		set_VectoresPlatos("/home/jramospe/oplink/algorithms/team/src/plugins/problems/MenuPlanning/databaseMenus/postres.txt", v_postres); 
+		set_VectoresPlatos("", v_primerosPlatos); 
+		set_VectoresPlatos("", v_segundosPlatos); 
+		set_VectoresPlatos("", v_postres); 
 	}
 	void set_VectoresPlatos(const char* c_filename, vector<infoPlatos> &v_vecP);
 	
