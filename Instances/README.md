@@ -3,7 +3,7 @@
 There are three files, each of them stores a different set of course types. There are first course, second course and dessert. Through these files the problem will create three vectors that will contain all the information stored in them.
 
 ### File format
-The format that the files must follow to store each dish with its respective nutritional information is the following:
+The format that the files must follow to store each course with its respective nutritional information is the following:
 
 >\<name\>,\<price\>,\<amount\>,\<allergens\>,\<incompatibilities\>,\<amount of nutrients\>,\<food groups\>, <br/>
 ,\<name\>,\<price\>,\<amount\>,\<allergens\>,\<incompatibilities\>,\<amount of nutrients\>,\<food groups\>, <br/>
