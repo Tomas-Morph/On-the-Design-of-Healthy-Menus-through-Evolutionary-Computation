@@ -19,7 +19,7 @@ Departamento de Ingeniería Informática y de Sistemas, Universidad de La Laguna
 </br></br>
 ### Abstract
 
-In this paper we propose a novel multi-objective formulation for the \textit{Menu Planning Problem} (\MPP).
+In this paper we propose a novel multi-objective formulation for the Menu Planning Problem (MPP).
 
 Menu planning has great interest in the field of health due to the importance of correct nutrition in today's society, and particularly, at school canteens.
 
@@ -33,7 +33,7 @@ The planning is designed for a given number of days and ensures that the particu
 
 Furthermore, other special circumstances, such as allergies, food intolerances and specific constraints regarding religion or lifestyle habits---vegetarians and vegans, for instance---are also taken into account.
 
-In order to solve the problem, we applied well-known multi-objective evolutionary algorithms which have shown competitive results in the related literature: \NSGAII{}, \SPEAII{} and \IBEA{}.
+In order to solve the problem, we applied well-known multi-objective evolutionary algorithms which have shown competitive results in the related literature: NSGAII, SPEAII and IBEA.
 
 The computational results attained by a set of well-known multi-objective evolutionary algorithms show that suitable menu plannings, in terms of their nutritional values, are provided.
 
