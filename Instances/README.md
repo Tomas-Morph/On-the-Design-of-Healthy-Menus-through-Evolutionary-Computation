@@ -1,6 +1,7 @@
 # Instances
 
 **1. Courses**: there exist three different files, containing information on each type of course (starters, main courses and desserts).
+
 **2. Number of days**: the number of days for which the meal plan will be designed has to be specified.
 
 ### File format
