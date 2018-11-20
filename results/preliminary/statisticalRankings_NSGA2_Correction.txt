@@ -1,0 +1,218 @@
+$VAR1 = {
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_250_pm_0.1_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       11,
+                                                                                                                                       0,
+                                                                                                                                       24,
+                                                                                                                                       11
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_250_pm_0.05_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        7,
+                                                                                                                                        0,
+                                                                                                                                        28,
+                                                                                                                                        7
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_50_pm_0.05_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       0,
+                                                                                                                                       35,
+                                                                                                                                       0
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_25_pm_0.1_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                      0,
+                                                                                                                                      0,
+                                                                                                                                      35,
+                                                                                                                                      0
+                                                                                                                                    ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_100_pm_0.05_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        0,
+                                                                                                                                        35,
+                                                                                                                                        0
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_50_pm_0.1_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                      0,
+                                                                                                                                      0,
+                                                                                                                                      35,
+                                                                                                                                      0
+                                                                                                                                    ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_250_pm_0.05_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        0,
+                                                                                                                                        35,
+                                                                                                                                        0
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_250_pm_0.1_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       0,
+                                                                                                                                       35,
+                                                                                                                                       0
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_50_pm_0.05_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       0,
+                                                                                                                                       35,
+                                                                                                                                       0
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_100_pm_0.15_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        0,
+                                                                                                                                        35,
+                                                                                                                                        0
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_250_pm_0.15_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        0,
+                                                                                                                                        35,
+                                                                                                                                        0
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_50_pm_0.15_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       0,
+                                                                                                                                       35,
+                                                                                                                                       0
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_50_pm_0.15_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       0,
+                                                                                                                                       35,
+                                                                                                                                       0
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_50_pm_0.05_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       0,
+                                                                                                                                       35,
+                                                                                                                                       0
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_250_pm_0.1_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       0,
+                                                                                                                                       35,
+                                                                                                                                       0
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_100_pm_0.15_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        0,
+                                                                                                                                        35,
+                                                                                                                                        0
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_250_pm_0.15_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        0,
+                                                                                                                                        35,
+                                                                                                                                        0
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_50_pm_0.1_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                      0,
+                                                                                                                                      0,
+                                                                                                                                      35,
+                                                                                                                                      0
+                                                                                                                                    ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_100_pm_0.1_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       0,
+                                                                                                                                       35,
+                                                                                                                                       0
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_250_pm_0.15_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        0,
+                                                                                                                                        35,
+                                                                                                                                        0
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_100_pm_0.1_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       0,
+                                                                                                                                       35,
+                                                                                                                                       0
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_25_pm_0.05_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       0,
+                                                                                                                                       35,
+                                                                                                                                       0
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_50_pm_0.1_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                      0,
+                                                                                                                                      0,
+                                                                                                                                      35,
+                                                                                                                                      0
+                                                                                                                                    ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_100_pm_0.05_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        0,
+                                                                                                                                        35,
+                                                                                                                                        0
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_250_pm_0.05_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        0,
+                                                                                                                                        35,
+                                                                                                                                        0
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_25_pm_0.05_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       1,
+                                                                                                                                       34,
+                                                                                                                                       -1
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_100_pm_0.1_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       1,
+                                                                                                                                       34,
+                                                                                                                                       -1
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_25_pm_0.15_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       1,
+                                                                                                                                       34,
+                                                                                                                                       -1
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_25_pm_0.05_pc_0.8_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       1,
+                                                                                                                                       34,
+                                                                                                                                       -1
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_25_pm_0.15_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       2,
+                                                                                                                                       33,
+                                                                                                                                       -2
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_25_pm_0.1_pc_0.9_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                      0,
+                                                                                                                                      2,
+                                                                                                                                      33,
+                                                                                                                                      -2
+                                                                                                                                    ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_25_pm_0.1_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                      0,
+                                                                                                                                      2,
+                                                                                                                                      33,
+                                                                                                                                      -2
+                                                                                                                                    ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_25_pm_0.15_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       2,
+                                                                                                                                       33,
+                                                                                                                                       -2
+                                                                                                                                     ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_100_pm_0.05_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        2,
+                                                                                                                                        33,
+                                                                                                                                        -2
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_100_pm_0.15_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                        0,
+                                                                                                                                        2,
+                                                                                                                                        33,
+                                                                                                                                        -2
+                                                                                                                                      ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_NSGA2_PopSize_50_pm_0.15_pc_1.0_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                       0,
+                                                                                                                                       2,
+                                                                                                                                       33,
+                                                                                                                                       -2
+                                                                                                                                     ]
+        };

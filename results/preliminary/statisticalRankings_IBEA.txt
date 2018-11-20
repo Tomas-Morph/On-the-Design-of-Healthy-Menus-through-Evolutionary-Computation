@@ -1,0 +1,218 @@
+$VAR1 = {
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_250_pm_0.1_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          32,
+                                                                                                                                                          0,
+                                                                                                                                                          3,
+                                                                                                                                                          32
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_250_pm_0.05_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           28,
+                                                                                                                                                           0,
+                                                                                                                                                           7,
+                                                                                                                                                           28
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_250_pm_0.1_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          28,
+                                                                                                                                                          1,
+                                                                                                                                                          6,
+                                                                                                                                                          27
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_250_pm_0.15_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           25,
+                                                                                                                                                           0,
+                                                                                                                                                           10,
+                                                                                                                                                           25
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_100_pm_0.05_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           25,
+                                                                                                                                                           1,
+                                                                                                                                                           9,
+                                                                                                                                                           24
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_100_pm_0.1_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          24,
+                                                                                                                                                          1,
+                                                                                                                                                          10,
+                                                                                                                                                          23
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_250_pm_0.15_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           23,
+                                                                                                                                                           1,
+                                                                                                                                                           11,
+                                                                                                                                                           22
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_250_pm_0.05_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           20,
+                                                                                                                                                           0,
+                                                                                                                                                           15,
+                                                                                                                                                           20
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_100_pm_0.15_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           19,
+                                                                                                                                                           3,
+                                                                                                                                                           13,
+                                                                                                                                                           16
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_250_pm_0.1_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          19,
+                                                                                                                                                          3,
+                                                                                                                                                          13,
+                                                                                                                                                          16
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_100_pm_0.05_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           19,
+                                                                                                                                                           5,
+                                                                                                                                                           11,
+                                                                                                                                                           14
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_100_pm_0.05_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           12,
+                                                                                                                                                           3,
+                                                                                                                                                           20,
+                                                                                                                                                           9
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_100_pm_0.1_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          14,
+                                                                                                                                                          7,
+                                                                                                                                                          14,
+                                                                                                                                                          7
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_100_pm_0.15_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           13,
+                                                                                                                                                           7,
+                                                                                                                                                           15,
+                                                                                                                                                           6
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_250_pm_0.15_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           10,
+                                                                                                                                                           6,
+                                                                                                                                                           19,
+                                                                                                                                                           4
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_250_pm_0.05_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           10,
+                                                                                                                                                           7,
+                                                                                                                                                           18,
+                                                                                                                                                           3
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_50_pm_0.05_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          9,
+                                                                                                                                                          8,
+                                                                                                                                                          18,
+                                                                                                                                                          1
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_50_pm_0.1_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                         9,
+                                                                                                                                                         11,
+                                                                                                                                                         15,
+                                                                                                                                                         -2
+                                                                                                                                                       ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_50_pm_0.05_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          9,
+                                                                                                                                                          11,
+                                                                                                                                                          15,
+                                                                                                                                                          -2
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_50_pm_0.15_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          9,
+                                                                                                                                                          11,
+                                                                                                                                                          15,
+                                                                                                                                                          -2
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_100_pm_0.1_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          9,
+                                                                                                                                                          12,
+                                                                                                                                                          14,
+                                                                                                                                                          -3
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_50_pm_0.05_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          8,
+                                                                                                                                                          11,
+                                                                                                                                                          16,
+                                                                                                                                                          -3
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_50_pm_0.1_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                         8,
+                                                                                                                                                         11,
+                                                                                                                                                         16,
+                                                                                                                                                         -3
+                                                                                                                                                       ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_100_pm_0.15_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                           9,
+                                                                                                                                                           14,
+                                                                                                                                                           12,
+                                                                                                                                                           -5
+                                                                                                                                                         ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_50_pm_0.1_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                         7,
+                                                                                                                                                         13,
+                                                                                                                                                         15,
+                                                                                                                                                         -6
+                                                                                                                                                       ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_50_pm_0.15_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          7,
+                                                                                                                                                          14,
+                                                                                                                                                          14,
+                                                                                                                                                          -7
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_50_pm_0.15_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          7,
+                                                                                                                                                          16,
+                                                                                                                                                          12,
+                                                                                                                                                          -9
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_25_pm_0.05_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          7,
+                                                                                                                                                          22,
+                                                                                                                                                          6,
+                                                                                                                                                          -15
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_25_pm_0.1_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                         4,
+                                                                                                                                                         24,
+                                                                                                                                                         7,
+                                                                                                                                                         -20
+                                                                                                                                                       ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_25_pm_0.1_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                         0,
+                                                                                                                                                         28,
+                                                                                                                                                         7,
+                                                                                                                                                         -28
+                                                                                                                                                       ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_25_pm_0.15_pc_0.8_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          0,
+                                                                                                                                                          28,
+                                                                                                                                                          7,
+                                                                                                                                                          -28
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_25_pm_0.05_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          0,
+                                                                                                                                                          28,
+                                                                                                                                                          7,
+                                                                                                                                                          -28
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_25_pm_0.15_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          0,
+                                                                                                                                                          29,
+                                                                                                                                                          6,
+                                                                                                                                                          -29
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_25_pm_0.15_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          0,
+                                                                                                                                                          29,
+                                                                                                                                                          6,
+                                                                                                                                                          -29
+                                                                                                                                                        ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_25_pm_0.1_pc_1.0_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                         0,
+                                                                                                                                                         29,
+                                                                                                                                                         6,
+                                                                                                                                                         -29
+                                                                                                                                                       ],
+          'Bolido_Sequential_MenuPlanning_EvoComp_IBEA_Adapt_PopSize_25_pm_0.05_pc_0.9_sFactor_0.002_days_20_MenuPlanning_400000000_400000000.allHV' => [
+                                                                                                                                                          0,
+                                                                                                                                                          29,
+                                                                                                                                                          6,
+                                                                                                                                                          -29
+                                                                                                                                                        ]
+        };
