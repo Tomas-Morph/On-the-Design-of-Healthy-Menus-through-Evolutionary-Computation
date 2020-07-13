@@ -1,4 +1,4 @@
-# Planning Healthy and Balanced School Lunches throughMulti-Objective Evolutionary Algorithms
+# Planning Healthy and Balanced School Lunches through Multi-Objective Evolutionary Algorithms
 
 **Gara Miranda** (gmiranda@ull.edu.es) </br>
 Dpto. de Ingeniería Informática y de Sistemas, Universidad de La Laguna, Spain.
