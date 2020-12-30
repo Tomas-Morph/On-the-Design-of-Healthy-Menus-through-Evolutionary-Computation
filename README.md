@@ -6,7 +6,7 @@ Dpto. de Ingeniería Informática y de Sistemas, Universidad de La Laguna, Spain
 **Gara Miranda** (gmiranda@ull.edu.es) </br>
 Dpto. de Ingeniería Informática y de Sistemas, Universidad de La Laguna, Spain.
 
-**Eduardo Segredo** (esegredo@ull.edu.es / e.segredo@napier.ac.uk) </br>
+**Eduardo Segredo** (esegredo@ull.edu.es) </br>
 Dpto. de Ingeniería Informática y de Sistemas, Universidad de La Laguna, Spain. </br>
 School of Computing, Edinburgh Napier University, United Kingdom.
 
