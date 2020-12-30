@@ -1,6 +1,6 @@
-# Planning Healthy and Balanced School Lunches through Multi-Objective Evolutionary Algorithms
+# Application of Multi-Objective Evolutionary Algorithms for Planning Healthy and Balanced School Lunches
 
-**Juan Manuel Ramos** (jramospe@ull.edu.es) </br>
+**Juan-Manuel Ramos-Pérez** (jramospe@ull.edu.es) </br>
 Dpto. de Ingeniería Informática y de Sistemas, Universidad de La Laguna, Spain.
 
 **Gara Miranda** (gmiranda@ull.edu.es) </br>
@@ -13,7 +13,7 @@ School of Computing, Edinburgh Napier University, United Kingdom.
 **Coromoto León** (cleon@ull.edu.es) </br>
 Dpto. de Ingeniería Informática y de Sistemas, Universidad de La Laguna, Spain.
 
-**Casiano Rodríguez** (crguezl@ull.edu.es) </br>
+**Casiano Rodríguez-León** (crguezl@ull.edu.es) </br>
 Dpto. de Ingeniería Informática y de Sistemas, Universidad de La Laguna, Spain.
 
 </br></br>
